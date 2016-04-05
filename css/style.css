@@ -1,0 +1,30 @@
+body 	{background:lightgrey;}
+
+
+
+
+
+
+#wrapper {
+		width:40%;
+		margin:auto;
+		padding:30px;
+		background-color:grey;
+		}
+
+
+
+
+
+#header{background-color:green;
+		position;relative;
+		border:10px solid aquamarine;
+		text-align:center;}
+
+
+
+
+
+.item{margin:10px;
+	}
+
